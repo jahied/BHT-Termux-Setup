@@ -1,6 +1,6 @@
 
 
-		[1] 𝐒𝐄𝐓𝐔𝐏 𝐓𝐄𝐑𝐌𝐔𝐗 𝐈𝐍𝐒𝐓𝐀𝐋𝐋 𝐀𝐋𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃
-		[2] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊
-		[3] 𝐄𝐗𝐈𝐓
+		[1] Setup Termux Install All Command
+		[2] Facebook
+		[3] [!] ExiT [!]
 		
