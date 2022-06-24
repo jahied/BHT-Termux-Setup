@@ -1,6 +1,0 @@
-
-
-		[1] Setup Termux Install All Command
-		[2] Facebook
-		[3] [!] ExiT [!]
-		
